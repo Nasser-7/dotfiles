@@ -17,7 +17,7 @@ sudo pacman -S ttf-liberation
 sudo pacman -S ttf-firacode-nerd
 sudo pacman -S ttf-jetbrains-mono-nerd
 ```
-### My favorite emoji fons
+### My favorite emoji fonts
 ```
 sudo pacman -S noto-fonts-emoji
 ```
