@@ -1,7 +1,9 @@
 # Install Recommended fonts
 ## Recommended fonts
 ### Sans-serif
+'''
 sudo pacman -S inter-font
+'''
 ### Serif
 sudo pacman -S
 ### Monospaced fonts
